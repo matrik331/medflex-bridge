@@ -1,0 +1,3 @@
+MEDFLEX_TOKEN=your_medflex_token_here
+LPU_ID=your_lpu_id_here
+BASE_URL=https://your-render-url.com
